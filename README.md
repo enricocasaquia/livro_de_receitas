@@ -2,4 +2,4 @@
 
 ### Olá, seja bem vindo ao meu livro de receitas!!
 
-- Estrogonoff de frango
+- Lasanha à bolonhesa
